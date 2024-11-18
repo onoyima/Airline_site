@@ -1,7 +1,4 @@
-// Template Name: FlyNow
-// Template URL: https://techpedia.co.uk/template/flyNow
-// Description:  FlyNow - Flight Booking Html Template
-// Version: 1.0.0
+
 
 (function (window, document, $, undefined) {
   "use strict";

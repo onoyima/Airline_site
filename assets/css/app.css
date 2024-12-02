@@ -6072,3 +6072,18 @@ footer .social-link ul li:hover {
 }
 
 /*# sourceMappingURL=app.css.map */
+
+
+.sticky-header {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0; /* Stick it to the top of the page */
+  z-index: 1000; /* Ensure the header is above other content */
+  background-color: #Fffe; /* Optional, to ensure background visibility */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional, adds shadow for better visibility */
+}
+
+/* Optional: Add some spacing so content below doesn't get hidden behind the header */
+body {
+  /* margin-top: 60px; Adjust this value to fit the height of your header */
+}
